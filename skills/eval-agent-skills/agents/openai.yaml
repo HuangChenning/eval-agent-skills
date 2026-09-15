@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Skill Evals"
+  short_description: "Evaluate agent skills with repeatable traces and checks"
+  default_prompt: "Use $eval-agent-skills to evaluate this agent skill with targeted cases and traces."
